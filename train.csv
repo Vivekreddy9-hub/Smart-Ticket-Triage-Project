@@ -1,0 +1,301 @@
+ticket_id,ticket_text,category
+1,"Hello, I was charged twice this month, please refund. Please help.",Billing
+2,I get an error code 500 when saving. — customer,Technical
+3,"Dear support, Why was I billed after cancellation?",Billing
+4,"Hi, I was charged twice this month, please refund. Please help.",Billing
+5,"Hi, Why was I billed after cancellation? — customer",Billing
+6,"Dear support, Would love integration with Google Drive. Thanks!",Feature Request
+7,"Hi, I forgot my password and cannot login. — customer",Account
+8,"Hello, Please add CSV export for reports. Please help.",Feature Request
+9,Upload fails with an unknown error.,Technical
+10,"Hello, Can you add dark mode to the app? ASAP.",Feature Request
+11,"Hello, I can't access my account settings. ASAP.",Account
+12,I want a refund for the extra payment. This is blocking me.,Billing
+13,"Hello, Why was I billed after cancellation? ASAP.",Billing
+14,"Hi, I can't access my account settings. — customer",Account
+15,"Hi, I was charged twice this month, please refund. ASAP.",Billing
+16,"Hi, I forgot my password and cannot login. ASAP.",Account
+17,"Hello, I want a refund for the extra payment. This is blocking me.",Billing
+18,"Hello, How can I change my subscription plan? Urgent.",Account
+19,Upload fails with an unknown error. Thanks!,Technical
+20,"Hi, Login throws an exception and I can't proceed. Please help.",Technical
+21,"Hello, Request: allow multiple users per team. — customer",Feature Request
+22,Upload fails with an unknown error. Please help.,Technical
+23,"Dear support, Where can I find my billing statement? Urgent.",Billing
+24,"Hello, My invoice shows the wrong amount for last month. Please help.",Billing
+25,"Dear support, Request: allow multiple users per team. Please help.",Feature Request
+26,"Hi, How can I change my subscription plan? — customer",Account
+27,"Dear support, I can't access my account settings. Thanks!",Account
+28,"Hi, Please add CSV export for reports. Please help.",Feature Request
+29,Can you add dark mode to the app? ASAP.,Feature Request
+30,"Hi, My invoice shows the wrong amount for last month. ASAP.",Billing
+31,Add a tutorial for first-time users. This is blocking me.,Feature Request
+32,"Dear support, Add a tutorial for first-time users. Thanks!",Feature Request
+33,I can't access my account settings. — customer,Account
+34,"Hello, Why was I billed after cancellation? ASAP.",Billing
+35,"Hello, I forgot my password and cannot login. This is blocking me.",Account
+36,"The feature is not responding, page freezes. — customer",Technical
+37,"Hi, I can't access my account settings. Thanks!",Account
+38,"Hi, Where can I find my billing statement? Please help.",Billing
+39,How can I change my subscription plan? Thanks!,Account
+40,Need help updating my email address.,Account
+41,"Hi, I want to delete my account permanently.",Account
+42,Login throws an exception and I can't proceed.,Technical
+43,"Hi, Can you add dark mode to the app? Please help.",Feature Request
+44,"Hi, Add a tutorial for first-time users. Urgent.",Feature Request
+45,"Hi, Would love integration with Google Drive. — customer",Feature Request
+46,"Hello, Need help updating my email address. This is blocking me.",Account
+47,"Hi, Can you add dark mode to the app? Please help.",Feature Request
+48,Where can I find my billing statement? Thanks!,Billing
+49,"Hi, Login throws an exception and I can't proceed.",Technical
+50,"Hi, I was charged twice this month, please refund.",Billing
+51,Where can I find my billing statement? Thanks!,Billing
+52,"Dear support, Upload fails with an unknown error. Please help.",Technical
+53,"Dear support, Login throws an exception and I can't proceed. Please help.",Technical
+54,"Hi, Request: allow multiple users per team.",Feature Request
+55,"Hello, I want a refund for the extra payment. This is blocking me.",Billing
+56,Request: allow multiple users per team. — customer,Feature Request
+57,"Dear support, I was charged twice this month, please refund. — customer",Billing
+58,"Hi, I forgot my password and cannot login. Please help.",Account
+59,"Dear support, Login throws an exception and I can't proceed. Please help.",Technical
+60,"Hello, Would love integration with Google Drive. This is blocking me.",Feature Request
+61,"Dear support, The app crashes when I upload a file. ASAP.",Technical
+62,"I was charged twice this month, please refund.",Billing
+63,"Dear support, I get an error code 500 when saving. This is blocking me.",Technical
+64,"Dear support, Would love integration with Google Drive.",Feature Request
+65,"The feature is not responding, page freezes. This is blocking me.",Technical
+66,"Hello, Need help updating my email address. This is blocking me.",Account
+67,"Hi, Would love integration with Google Drive. Urgent.",Feature Request
+68,The app crashes when I upload a file. — customer,Technical
+69,I forgot my password and cannot login. Thanks!,Account
+70,"Hi, Add a tutorial for first-time users.",Feature Request
+71,My invoice shows the wrong amount for last month. Thanks!,Billing
+72,"Dear support, My invoice shows the wrong amount for last month.",Billing
+73,Login throws an exception and I can't proceed. Thanks!,Technical
+74,"Hello, I want a refund for the extra payment. Urgent.",Billing
+75,"Hi, Upload fails with an unknown error. Urgent.",Technical
+76,"Hello, Would love integration with Google Drive. This is blocking me.",Feature Request
+77,I forgot my password and cannot login. This is blocking me.,Account
+78,"Hi, I was charged twice this month, please refund. Thanks!",Billing
+79,"Hello, How can I change my subscription plan?",Account
+80,"Hello, Upload fails with an unknown error. Please help.",Technical
+81,"Hello, Add a tutorial for first-time users. Thanks!",Feature Request
+82,"Hello, Why was I billed after cancellation? — customer",Billing
+83,"Hello, My invoice shows the wrong amount for last month.",Billing
+84,"Hi, Why was I billed after cancellation? Urgent.",Billing
+85,"Hi, I can't access my account settings. — customer",Account
+86,"Hello, How can I change my subscription plan? Thanks!",Account
+87,Please add CSV export for reports.,Feature Request
+88,Please add CSV export for reports.,Feature Request
+89,"Hello, How can I change my subscription plan? Please help.",Account
+90,"Dear support, Add a tutorial for first-time users. Thanks!",Feature Request
+91,"I was charged twice this month, please refund. — customer",Billing
+92,Login throws an exception and I can't proceed. ASAP.,Technical
+93,"Hi, I can't access my account settings. This is blocking me.",Account
+94,"Hello, The app crashes when I upload a file. Urgent.",Technical
+95,"Hi, Where can I find my billing statement? — customer",Billing
+96,"Hello, The app crashes when I upload a file. ASAP.",Technical
+97,"Hi, Add a tutorial for first-time users. Please help.",Feature Request
+98,"Dear support, I get an error code 500 when saving.",Technical
+99,"Dear support, Upload fails with an unknown error. ASAP.",Technical
+100,"Hi, Upload fails with an unknown error. ASAP.",Technical
+101,I want a refund for the extra payment. ASAP.,Billing
+102,"Hi, Would love integration with Google Drive. ASAP.",Feature Request
+103,"Hello, Please add CSV export for reports. ASAP.",Feature Request
+104,I get an error code 500 when saving. — customer,Technical
+105,"Hello, The feature is not responding, page freezes. Urgent.",Technical
+106,"Hello, Where can I find my billing statement? — customer",Billing
+107,"Hello, Add a tutorial for first-time users.",Feature Request
+108,"Hi, Where can I find my billing statement? Thanks!",Billing
+109,I forgot my password and cannot login. Thanks!,Account
+110,"Hello, Please add CSV export for reports. This is blocking me.",Feature Request
+111,"Hi, I want a refund for the extra payment. Urgent.",Billing
+112,I want a refund for the extra payment. Thanks!,Billing
+113,"Dear support, Upload fails with an unknown error.",Technical
+114,"Hello, I can't access my account settings. — customer",Account
+115,"Hello, Where can I find my billing statement? — customer",Billing
+116,"Dear support, Please add CSV export for reports. — customer",Feature Request
+117,"Hi, I can't access my account settings. Please help.",Account
+118,"Hi, Request: allow multiple users per team. Thanks!",Feature Request
+119,Need help updating my email address. Urgent.,Account
+120,"Dear support, How can I change my subscription plan? ASAP.",Account
+121,"Dear support, Need help updating my email address. This is blocking me.",Account
+122,"Dear support, Login throws an exception and I can't proceed. ASAP.",Technical
+123,"Hello, The app crashes when I upload a file. Thanks!",Technical
+124,"Hi, I forgot my password and cannot login. — customer",Account
+125,"Hi, How can I change my subscription plan? Please help.",Account
+126,"Hi, I was charged twice this month, please refund. This is blocking me.",Billing
+127,"Dear support, I want a refund for the extra payment. — customer",Billing
+128,"Dear support, The feature is not responding, page freezes. This is blocking me.",Technical
+129,I get an error code 500 when saving. ASAP.,Technical
+130,"Hi, I want a refund for the extra payment. Please help.",Billing
+131,"Hi, Can you add dark mode to the app? ASAP.",Feature Request
+132,"Hi, I want a refund for the extra payment. ASAP.",Billing
+133,"Hello, Add a tutorial for first-time users. ASAP.",Feature Request
+134,"Dear support, Add a tutorial for first-time users. ASAP.",Feature Request
+135,"Dear support, Would love integration with Google Drive. This is blocking me.",Feature Request
+136,"Hello, How can I change my subscription plan? ASAP.",Account
+137,"Hello, Would love integration with Google Drive. This is blocking me.",Feature Request
+138,"Hi, Where can I find my billing statement? Urgent.",Billing
+139,I want to delete my account permanently. Please help.,Account
+140,"Dear support, I get an error code 500 when saving. — customer",Technical
+141,I get an error code 500 when saving. This is blocking me.,Technical
+142,"Dear support, Please add CSV export for reports. This is blocking me.",Feature Request
+143,"Dear support, My invoice shows the wrong amount for last month. This is blocking me.",Billing
+144,"Dear support, Why was I billed after cancellation? This is blocking me.",Billing
+145,"Hello, Where can I find my billing statement? ASAP.",Billing
+146,"Hi, Request: allow multiple users per team. This is blocking me.",Feature Request
+147,"Dear support, Upload fails with an unknown error. This is blocking me.",Technical
+148,"Hello, I want a refund for the extra payment. — customer",Billing
+149,"Dear support, Would love integration with Google Drive. Please help.",Feature Request
+150,I want a refund for the extra payment.,Billing
+151,"Dear support, Would love integration with Google Drive. Please help.",Feature Request
+152,"Dear support, Where can I find my billing statement? Urgent.",Billing
+153,"Hello, The feature is not responding, page freezes. Urgent.",Technical
+154,"Dear support, Please add CSV export for reports. Urgent.",Feature Request
+155,I want a refund for the extra payment. — customer,Billing
+156,"Hi, Where can I find my billing statement? — customer",Billing
+157,"I was charged twice this month, please refund. Please help.",Billing
+158,"Hi, The app crashes when I upload a file. Please help.",Technical
+159,"The feature is not responding, page freezes. Thanks!",Technical
+160,"Hello, The feature is not responding, page freezes. ASAP.",Technical
+161,How can I change my subscription plan? ASAP.,Account
+162,Upload fails with an unknown error. Thanks!,Technical
+163,"Dear support, Where can I find my billing statement? This is blocking me.",Billing
+164,"Hi, The app crashes when I upload a file.",Technical
+165,I can't access my account settings. ASAP.,Account
+166,"Dear support, Where can I find my billing statement? — customer",Billing
+167,"Hello, I forgot my password and cannot login.",Account
+168,Request: allow multiple users per team. This is blocking me.,Feature Request
+169,"Hi, Need help updating my email address. This is blocking me.",Account
+170,"Hello, Login throws an exception and I can't proceed. Thanks!",Technical
+171,"Dear support, Request: allow multiple users per team. ASAP.",Feature Request
+172,"Hi, I want to delete my account permanently. ASAP.",Account
+173,"Dear support, Where can I find my billing statement? Please help.",Billing
+174,"Dear support, Add a tutorial for first-time users. Urgent.",Feature Request
+175,"Hello, I want a refund for the extra payment. Please help.",Billing
+176,"Hello, Would love integration with Google Drive. ASAP.",Feature Request
+177,"Hello, I want to delete my account permanently. Thanks!",Account
+178,I can't access my account settings. Thanks!,Account
+179,"Hi, The app crashes when I upload a file. — customer",Technical
+180,"Hi, Request: allow multiple users per team. — customer",Feature Request
+181,"Dear support, Request: allow multiple users per team. ASAP.",Feature Request
+182,"Hello, I was charged twice this month, please refund. Please help.",Billing
+183,"Hello, Would love integration with Google Drive. — customer",Feature Request
+184,"Hello, Need help updating my email address. This is blocking me.",Account
+185,"Dear support, I want to delete my account permanently. Urgent.",Account
+186,"Hi, I want to delete my account permanently.",Account
+187,Upload fails with an unknown error. — customer,Technical
+188,"Hi, I get an error code 500 when saving. — customer",Technical
+189,"Hello, Please add CSV export for reports.",Feature Request
+190,"Hi, Upload fails with an unknown error. Urgent.",Technical
+191,Upload fails with an unknown error. — customer,Technical
+192,Upload fails with an unknown error.,Technical
+193,"Dear support, How can I change my subscription plan?",Account
+194,"Hello, Why was I billed after cancellation? This is blocking me.",Billing
+195,"Hello, Request: allow multiple users per team. Please help.",Feature Request
+196,"Dear support, Where can I find my billing statement?",Billing
+197,"Dear support, I want a refund for the extra payment.",Billing
+198,"Hi, My invoice shows the wrong amount for last month. ASAP.",Billing
+199,"Hi, I forgot my password and cannot login.",Account
+200,"Hi, Add a tutorial for first-time users. ASAP.",Feature Request
+201,"Dear support, Request: allow multiple users per team. Urgent.",Feature Request
+202,Please add CSV export for reports. Thanks!,Feature Request
+203,"Hi, My invoice shows the wrong amount for last month. Urgent.",Billing
+204,"Hi, My invoice shows the wrong amount for last month. Please help.",Billing
+205,My invoice shows the wrong amount for last month. This is blocking me.,Billing
+206,"Dear support, Add a tutorial for first-time users. Urgent.",Feature Request
+207,"Hello, My invoice shows the wrong amount for last month. — customer",Billing
+208,Need help updating my email address. — customer,Account
+209,"Hi, Upload fails with an unknown error. This is blocking me.",Technical
+210,"Hi, Why was I billed after cancellation? — customer",Billing
+211,"Hi, Upload fails with an unknown error.",Technical
+212,"Hello, My invoice shows the wrong amount for last month. Thanks!",Billing
+213,Need help updating my email address. This is blocking me.,Account
+214,"Hello, Need help updating my email address. Thanks!",Account
+215,Request: allow multiple users per team. Thanks!,Feature Request
+216,"Hello, I want a refund for the extra payment. Thanks!",Billing
+217,I forgot my password and cannot login. Please help.,Account
+218,Where can I find my billing statement? ASAP.,Billing
+219,"Dear support, The feature is not responding, page freezes. Urgent.",Technical
+220,"Dear support, Login throws an exception and I can't proceed. — customer",Technical
+221,"Dear support, Can you add dark mode to the app? Urgent.",Feature Request
+222,"Hello, Please add CSV export for reports. — customer",Feature Request
+223,"Hello, My invoice shows the wrong amount for last month. This is blocking me.",Billing
+224,"Dear support, Please add CSV export for reports. ASAP.",Feature Request
+225,I want a refund for the extra payment. Urgent.,Billing
+226,I want to delete my account permanently. ASAP.,Account
+227,Add a tutorial for first-time users. — customer,Feature Request
+228,Request: allow multiple users per team. Please help.,Feature Request
+229,"Dear support, I can't access my account settings. — customer",Account
+230,"Hi, Can you add dark mode to the app? Urgent.",Feature Request
+231,"Dear support, Upload fails with an unknown error. — customer",Technical
+232,Can you add dark mode to the app? — customer,Feature Request
+233,"Hello, I get an error code 500 when saving. Thanks!",Technical
+234,"Dear support, Why was I billed after cancellation?",Billing
+235,"Dear support, The app crashes when I upload a file.",Technical
+236,"Hello, The feature is not responding, page freezes. Thanks!",Technical
+237,"Dear support, Need help updating my email address. This is blocking me.",Account
+238,"Hi, The feature is not responding, page freezes. This is blocking me.",Technical
+239,"Hi, Login throws an exception and I can't proceed. ASAP.",Technical
+240,"Dear support, Where can I find my billing statement? Urgent.",Billing
+241,"Hello, I forgot my password and cannot login. — customer",Account
+242,"Dear support, I can't access my account settings. ASAP.",Account
+243,"Dear support, The feature is not responding, page freezes. Urgent.",Technical
+244,"Dear support, I can't access my account settings. This is blocking me.",Account
+245,"Hi, How can I change my subscription plan? Thanks!",Account
+246,"Dear support, Would love integration with Google Drive.",Feature Request
+247,"Dear support, Need help updating my email address. This is blocking me.",Account
+248,"The feature is not responding, page freezes. Please help.",Technical
+249,"Dear support, I forgot my password and cannot login.",Account
+250,"Hi, Can you add dark mode to the app? This is blocking me.",Feature Request
+251,"Dear support, The app crashes when I upload a file. ASAP.",Technical
+252,"Dear support, I want to delete my account permanently. — customer",Account
+253,"Dear support, Where can I find my billing statement? Urgent.",Billing
+254,Add a tutorial for first-time users. Thanks!,Feature Request
+255,"Hello, My invoice shows the wrong amount for last month. Please help.",Billing
+256,I want a refund for the extra payment. ASAP.,Billing
+257,"Hi, I want a refund for the extra payment. — customer",Billing
+258,I forgot my password and cannot login. Urgent.,Account
+259,"Hello, Where can I find my billing statement? Urgent.",Billing
+260,"Hi, Would love integration with Google Drive. Thanks!",Feature Request
+261,"Hi, Add a tutorial for first-time users. Please help.",Feature Request
+262,"Dear support, The app crashes when I upload a file. Thanks!",Technical
+263,"Hi, The feature is not responding, page freezes. Please help.",Technical
+264,"Dear support, Please add CSV export for reports. Urgent.",Feature Request
+265,"Hello, I want a refund for the extra payment. — customer",Billing
+266,"Dear support, The app crashes when I upload a file. Urgent.",Technical
+267,"Hello, Need help updating my email address. This is blocking me.",Account
+268,"Dear support, How can I change my subscription plan? ASAP.",Account
+269,"Hi, Can you add dark mode to the app? This is blocking me.",Feature Request
+270,"Hello, I can't access my account settings. — customer",Account
+271,"Dear support, I forgot my password and cannot login. Urgent.",Account
+272,Why was I billed after cancellation? Thanks!,Billing
+273,"Hi, Please add CSV export for reports. Thanks!",Feature Request
+274,"Hi, How can I change my subscription plan? Thanks!",Account
+275,How can I change my subscription plan? — customer,Account
+276,"Dear support, Where can I find my billing statement?",Billing
+277,How can I change my subscription plan? Urgent.,Account
+278,"Hi, Need help updating my email address. Please help.",Account
+279,"Hello, Login throws an exception and I can't proceed. Thanks!",Technical
+280,"Hello, How can I change my subscription plan? ASAP.",Account
+281,"Hello, Please add CSV export for reports. ASAP.",Feature Request
+282,I want a refund for the extra payment. Please help.,Billing
+283,"Hello, The feature is not responding, page freezes.",Technical
+284,"Hello, Can you add dark mode to the app? Thanks!",Feature Request
+285,"Hello, I want a refund for the extra payment. — customer",Billing
+286,"Dear support, I can't access my account settings. ASAP.",Account
+287,"Hi, I forgot my password and cannot login. This is blocking me.",Account
+288,"Hello, Why was I billed after cancellation? Thanks!",Billing
+289,"Dear support, The app crashes when I upload a file. — customer",Technical
+290,Need help updating my email address. Please help.,Account
+291,"Hello, I was charged twice this month, please refund. This is blocking me.",Billing
+292,"Hi, I was charged twice this month, please refund. Thanks!",Billing
+293,"Dear support, The feature is not responding, page freezes. Urgent.",Technical
+294,"Hi, Add a tutorial for first-time users. This is blocking me.",Feature Request
+295,"Dear support, I want a refund for the extra payment. Urgent.",Billing
+296,"Hi, Where can I find my billing statement? This is blocking me.",Billing
+297,"Hello, Would love integration with Google Drive.",Feature Request
+298,"Hello, I can't access my account settings.",Account
+299,"Hi, Please add CSV export for reports.",Feature Request
+300,"Hi, Can you add dark mode to the app? — customer",Feature Request

@@ -1,0 +1,17 @@
+Demo Script:
+
+1. Install requirements (see README.md).
+2. Download NLTK stopwords:
+   python -c "import nltk; nltk.download('stopwords')"
+3. Train baseline:
+   python src/train.py data/train.csv
+4. Run API:
+   python src/api.py
+5. Run UI:
+   streamlit run ui/app.py
+
+Test examples:
+- 'My invoice shows wrong amount' -> Billing
+- 'App crashes when I upload' -> Technical
+- 'I forgot my password' -> Account
+- 'Please add CSV export for reports' -> Feature Request
